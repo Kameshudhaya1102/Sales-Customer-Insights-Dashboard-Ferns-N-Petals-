@@ -30,11 +30,11 @@ This project analyzes the sales data of **Ferns N Petals (FNP)** to uncover key 
 
 ## 📸 Dashboard Screenshot
 ### 🏷️ Sales Overview  
-![Sales Overview](Dashboard/<img width="1174" height="602" alt="Dashboard" src="https://github.com/user-attachments/assets/cc3a62ef-05a9-4897-ac7f-f3f70a14a797" />)
+(Dashboard/<img width="1174" height="602" alt="Dashboard" src="https://github.com/user-attachments/assets/cc3a62ef-05a9-4897-ac7f-f3f70a14a797" />)
 
 
-![PowerPivot](Analysis/<img width="1033" height="641" alt="Insights" src="https://github.com/user-attachments/assets/829fc85f-9e06-489d-822f-c464036a12ef" />
-insights.png)
+(Analysis/<img width="1033" height="641" alt="Insights" src="https://github.com/user-attachments/assets/829fc85f-9e06-489d-822f-c464036a12ef" />
+
 
 ## 🔍 Insights & Findings
 - Sales peak during **festive occasions** like **Holi and Raksha Bandhan**.
